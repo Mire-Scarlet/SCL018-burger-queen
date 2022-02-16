@@ -1,13 +1,31 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.container {
+  background-color: #C3E0A5;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.bg-myLightGreen {
+  background-color: #DCF6B2;
+} 
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;}
+
+@font-face {
+  font-family: imf;
+  src: url(./fonts/IMFellEnglishSC-Regular-Titles.ttf);
 }
+
+@font-face {
+  font-family: neucha;
+  src: url(./fonts/Neucha-Regular.ttf);
+}
+
+.titles {
+  font-family: "imf", imf
+}
+
+.other-text{
+  font-family: 'neucha', neucha
+}
+  
