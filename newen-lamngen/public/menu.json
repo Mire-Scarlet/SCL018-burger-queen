@@ -1,0 +1,210 @@
+{
+  "drinks": [
+    {
+      "id": "d1",
+      "name": "Muday",
+      "price": 1500,
+      "type": "drink"
+    },
+
+    {
+        "id": "d2",
+        "name": "Café de trigo",
+        "price": 1500,
+        "type": "drink"
+      },
+
+      {
+        "id": "d3",
+        "name": "Café de maqui",
+        "price": 1500,
+        "type": "drink"
+      },
+
+      {
+        "id": "d4",
+        "name": "Mate",
+        "price": 1500,
+        "type": "drink"
+      },
+
+      {
+        "id": "d5",
+        "name": "Lawen",
+        "price": 1500,
+        "type": "drink"
+      },
+
+      {
+        "id": "d6",
+        "name": "Agua",
+        "price": 1500,
+        "type": "drink"
+      },
+
+      {
+        "id": "d7",
+        "name": "Bebida",
+        "price": 1500,
+        "type": "drink"
+      },
+
+      {
+        "id": "d8",
+        "name": "Jugo natural",
+        "price": 1500,
+        "type": "drink"
+      }
+
+    ],
+
+    "food" : [
+      {
+        "id": "f1",
+        "name": "Charquicán de cochayuyo",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f2",
+        "name": "Caldo de digüeñes",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f3",
+        "name": "Papas con mote",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f4",
+        "name": "Pantrucas",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f5",
+        "name": "Quinoa graneada con vacuno",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f6",
+        "name": "Pescado frito con puré de piñones y merkén",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f7",
+        "name": "Cazuela de locro",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f8",
+        "name": "Empanada de digüeñes y queso",
+        "price": 1500,
+        "type": "food"
+      },
+
+      {
+        "id": "f9",
+        "name": "Empanada de digüeñes con pollo y cebolla",
+        "price": 1500,
+        "type": "food"
+      }
+
+    ],
+
+    "sidedish" : [
+
+      {
+        "id": "s1",
+        "name": "Sopaipillas",
+        "price": 1500,
+        "type": "sidedish"
+      },
+
+      {
+        "id": "s2",
+        "name": "Catuto",
+        "price": 1500,
+        "type": "sidedish"
+      },
+
+      {
+        "id": "s3",
+        "name": "Tortilla de rescoldo",
+        "price": 1500,
+        "type": "sidedish"
+      },
+
+      {
+        "id": "s4",
+        "name": "Sopaipilla de papa",
+        "price": 1500,
+        "type": "sidedish"
+      },
+
+      {
+        "id": "s5",
+        "name": "Pan amasado",
+        "price": 1500,
+        "type": "sidedish"
+      }
+    ],
+
+    "pastries" : [
+
+      {
+        "id": "p1",
+        "name": "Kuchen de mote y frutillas",
+        "price": 1500,
+        "type": "pastry"
+      },
+
+      {
+        "id": "p2",
+        "name": "Cocadas de garbanzo y cilantro",
+        "price": 1500,
+        "type": "pastry"
+      },
+
+      {
+        "id": "p3",
+        "name": "Milcaos con leche",
+        "price": 1500,
+        "type": "pastry"
+      },
+
+      {
+        "id": "p4",
+        "name": "Pajaritos",
+        "price": 1500,
+        "type": "pastry"
+      },
+
+      {
+        "id": "p5",
+        "name": "Quinoa con leche",
+        "price": 1500,
+        "type": "pastry"
+      },
+
+      {
+        "id": "p6",
+        "name": "Torta de piñón",
+        "price": 1500,
+        "type": "pastry"
+      } 
+    ]
+
+} 
